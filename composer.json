@@ -1,0 +1,14 @@
+{
+    "name": "ishan/mvc",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ishan"
+        }
+    ],
+    "require": {}
+}
